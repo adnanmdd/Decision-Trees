@@ -1,0 +1,6 @@
+<h2>Heart Disease Prediction using Classification Tree</h2> 
+<h3>Problem Overview</h3> 
+<p> Heart disease is a major health concern, and early identification of patients at higher risk can support timely medical evaluation. This project uses the Heart Disease dataset from the UCI Machine Learning Repository, which contains clinical and demographic attributes such as age, sex, blood pressure, cholesterol, and other relevant measurements. The objective is to predict whether a patient is likely to have heart disease. This is treated as a binary classification problem and is solved using a Classification Tree. </p>
+
+<h3>How It Was Solved</h3> 
+<p> A Classification Tree was used to learn decision rules from the patient dataset. The data was cleaned and prepared, relevant features were selected, and the dataset was divided into training and testing sets. The decision tree was trained on the training data to identify patterns associated with heart disease. It then classified unseen patients into heart-disease and no-heart-disease categories. Model performance was evaluated on the test set using classification metric such as confusion matrix. </p> 
